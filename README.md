@@ -1,1 +1,1 @@
-# Python-SQLite-Database-Assignment
+# SQLite-Coffee-Beans-Database-Assignment
