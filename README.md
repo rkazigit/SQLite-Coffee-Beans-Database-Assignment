@@ -1,1 +1,1 @@
-# Python SQLite-Coffee-Beans-Database
+# Python SQLite - Coffee Beans Database
